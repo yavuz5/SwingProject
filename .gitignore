@@ -1,0 +1,7 @@
+out/
+.idea/**/dataSources/
+*.class
+.mtj.tmp/
+*.jar
+*.war
+*.ear
